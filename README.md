@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Piyush
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-kene-6a3916328)
+
+
 🚀 I'm a BCA student learning:
 - 🛡 Cybersecurity 
 - 🌐 Full Stack Web Development
@@ -22,24 +25,25 @@ I believe in **learning in public** and tracking daily progress.
 
 ## 🌐 Full Stack Development
 
-Skill Set-
-- Frontend: ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
+TechStack - 
+- Frontend: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- Backend:![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-Beginner-black?style=for-the-badge&logo=express)
+- Backend:![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Beginner-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- Database: ![MongoDB](https://img.shields.io/badge/MongoDB-Basics-47A248?style=for-the-badge&logo=mongodb)
-- Goal: Build real-world Full-stack applications
+- Database: ![MongoDB](https://img.shields.io/badge/MongoDB-Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Goal**: Build real-world Full-stack applications
 
-Currently I am working on a full-stack project - 
+**Currently working on:**  
+👉 [Full Stack Project – EasyKart](https://github.com/piyush-Kene/ecommerce-store)
 ---
 
 ## 🧠 DSA
-- Language:  C++ 
-- Platform: LeetCode 
+- Language: ![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- Platform: ![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) 
 - Goal: To Improve problem-solving skills
 
 ---
@@ -50,6 +54,3 @@ Currently I am working on a full-stack project -
 I document what I learn every day to stay accountable and consistent.
 
 ---
-
-## 📫 Connect with Me
-- www.linkedin.com/in/piyush-kene-6a3916328
