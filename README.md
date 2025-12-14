@@ -45,7 +45,7 @@ I believe in **learning in public** and tracking daily progress.
 
 [![Progress](https://img.shields.io/badge/Progress-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)
 
-🎯 <strong>***Goal:</strong> Improve problem-solving skills using Data Structures & Algorithms***
+🎯 <strong>***Goal:</strong> Improve problem-solving skills ***
 
 ---
 
