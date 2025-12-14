@@ -38,8 +38,8 @@ I believe in **learning in public** and tracking daily progress.
 
 **Currently working on:**  
 👉 [Full Stack Project – EasyKart](https://github.com/piyush-Kene/ecommerce-store)
----
 
+----
 ## 🧠 DSA
 - Language: ![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - Platform: ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) 
