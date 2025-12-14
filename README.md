@@ -60,7 +60,7 @@ I believe in **learning in public** and tracking daily progress.
 ---
 
 ## 📊 Daily Learning Progress
-📁 **[View my daily progress logs →](progress/)**
+📁 **[View my daily learning progress logs →](progress/)**
 
 I document what I learn every day to stay accountable and consistent.
 
