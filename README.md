@@ -35,8 +35,10 @@ I believe in **learning in public** and tracking daily progress.
 
 ---
 
-## 📊 Daily Progress
-📁 Progress logs 👉 `progress/`
+## 📊 Daily Learning Progress
+📁 **[View my daily progress logs →](progress/)**
+
+I document what I learn every day to stay accountable and consistent.
 
 ---
 
