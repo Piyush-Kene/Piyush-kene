@@ -48,14 +48,14 @@ I believe in **learning in public** and tracking daily progress.
 </p>
 
 <p>
-  <strong style="font-size:16px;">Progree:</strong>
+  <strong style="font-size:16px;">Progress:</strong>
   &nbsp;
   <a href="https://leetcode.com/progress/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" alt="LeetCode" />
   </a>
 </p>
 
-🎯 <strong>Goal:</strong> Improve problem-solving skills using Data Structures & Algorithms
+🎯 <strong>***Goal:</strong> Improve problem-solving skills using Data Structures & Algorithms***
 
 ---
 
