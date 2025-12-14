@@ -49,7 +49,7 @@ I believe in **learning in public** and tracking daily progress.
 </p>
 
 <p>
-  <strong style="font-size:16px;">Platform:</strong>
+  <strong style="font-size:16px;">Progree:</strong>
   &nbsp;
   <a href="https://leetcode.com/progress/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" alt="LeetCode" />
