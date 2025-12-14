@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Piyush
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/yourusername/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
 🚀 I'm a BCA student learning:
 - 🛡 Cybersecurity 
