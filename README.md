@@ -43,7 +43,7 @@ I believe in **learning in public** and tracking daily progress.
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Progress](https://img.shields.io/badge/Progress-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)
+[![Progress](https://img.shields.io/badge/Progress-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Piyush_kene/)
 
 🎯 ***[Goal: Improve problem-solving skills ]***
 
