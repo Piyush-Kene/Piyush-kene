@@ -41,19 +41,9 @@ I believe in **learning in public** and tracking daily progress.
 ----
 ## 🧠 DSA
 
-<p>
-  <strong style="font-size:24px;">Language:</strong>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" alt="C++" />
-</p>
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<p>
-  <strong style="font-size:16px;">Progress:</strong>
-  &nbsp;
-  <a href="https://leetcode.com/progress/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" alt="LeetCode" />
-  </a>
-</p>
+[![Progress](https://img.shields.io/badge/Progress-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)
 
 🎯 <strong>***Goal:</strong> Improve problem-solving skills using Data Structures & Algorithms***
 
