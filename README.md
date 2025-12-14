@@ -21,11 +21,20 @@ I believe in **learning in public** and tracking daily progress.
 ---
 
 ## 🌐 Full Stack Development
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Database: MongoDB
-- Goal: Build real-world applications
 
+Skill Set-
+- Frontend: ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+- Backend:![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-Beginner-black?style=for-the-badge&logo=express)
+
+- Database: ![MongoDB](https://img.shields.io/badge/MongoDB-Basics-47A248?style=for-the-badge&logo=mongodb)
+- Goal: Build real-world Full-stack applications
+
+Currently I am working on a full-stack project - 
 ---
 
 ## 🧠 DSA
