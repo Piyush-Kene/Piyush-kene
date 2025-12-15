@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kene-6a3916328/)
 
-🚀 I'm a BCA student learning:
+🚀 I'm a BCA student currently learning:
 - 🛡 Cybersecurity 
 - 🌐 Full Stack Web Development
 - 🧠 Data Structures & Algorithms (DSA)
