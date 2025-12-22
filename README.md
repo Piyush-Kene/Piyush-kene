@@ -7,8 +7,6 @@
 - 🌐 Full Stack Web Development
 - 🧠 Data Structures & Algorithms (DSA)
 
-I believe in **learning in public** and tracking daily progress.
-
 ---
 
 ## 🛡 Cybersecurity
@@ -18,7 +16,6 @@ I believe in **learning in public** and tracking daily progress.
 - Starting cybersecurity from zero .
 - Following **roadmap.sh** for theory + **TryHackMe** for hands-on.
 - Goal: Entry-level job in **6-8 months** (Security Analyst/SOC).
-- Daily: 1hr theory + 2hrs labs + GitHub updates.
 
 ---
 
