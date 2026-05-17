@@ -1,49 +1,75 @@
-# 👋 Hi, I'm Piyush
+# Hi, I'm Piyush 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kene-6a3916328/)
+BCA student focused on **Cybersecurity** and **Full Stack Development**.
 
-🚀 I'm a BCA student currently learning:
-- 🛡 Cybersecurity 
-- 🌐 Full Stack Web Development
-- 🧠 Data Structures & Algorithms (DSA)
-
----
-
-## 🛡 Cybersecurity
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Journey-blue?style=for-the-badge&logo=github)
-
-- Starting cybersecurity from zero .
-- Following **roadmap.sh** for theory + **TryHackMe** for hands-on.
-- Goal: Entry-level job in **6-8 months** (Security Analyst/SOC).
+Currently building hands-on skills through:
+- TryHackMe labs
+- Security write-ups
+- Full stack projects
+- Linux & networking practice
+- Real-world development workflows
 
 ---
 
-## 🌐 Full Stack Development
+# 🛡 Cybersecurity
 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Currently learning and practicing:
+- Networking Fundamentals
+- Linux Fundamentals
+- Web Security
+- Enumeration & Reconnaissance
+- Privilege Escalation
+- Python for Security
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Platforms & Tools
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ***Goal***: **Build real-world Full-stack applications**
+### Current Goal
+Building strong practical cybersecurity skills for entry-level security roles.
 
-**Currently working on:**  
-👉 [Full Stack Project – EasyKart](https://github.com/piyush-Kene/ecommerce-store)
+### Featured Repository
+🔗 [Cybersecurity Portfolio](https://github.com/YOUR_USERNAME/cybersecurity-portfolio)
 
-----
-## 🧠 DSA
+---
 
-![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 🌐 Full Stack Development
 
-[![Progress](https://img.shields.io/badge/Progress-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Piyush_kene/)
+Building modern web applications using:
 
-🎯 ***[Goal: Improve problem-solving skills ]***
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Current Project
+🔗 [EasyKart – Full Stack Ecommerce Project](https://github.com/piyush-Kene/ecommerce-store)
+
+---
+
+# 📌 Current Focus
+
+- Building a professional cybersecurity portfolio
+- Improving Linux & networking skills
+- Creating security-focused Python tools
+- Developing full stack applications
+- Consistent daily learning and documentation
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kene-6a3916328/)
+
+---
+
+> “Consistency compounds. Small progress every day becomes expertise over time.”
 
 ---
 
